@@ -21,7 +21,7 @@ export default function BasicSpeedDial() {
       ariaLabel="SpeedDial basic example"
       sx={{
         position: 'fixed',
-        bottom:100,
+        bottom:'10%',
         right: '20%',
         }}
       icon={<SpeedDialIcon />}
